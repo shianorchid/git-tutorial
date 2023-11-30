@@ -8,8 +8,11 @@ for i in 1..30
     elsif i%5==0 
         puts "Buzz!"
     else
+        puts i
+    end
     
 end
+
 
 
 
